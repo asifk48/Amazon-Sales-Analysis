@@ -90,7 +90,7 @@
     <h2>📬 Contact</h2>
     <p>
         For questions or collaboration, reach out via:<br>
-        📧 Email: <a href="mailto:mohammadasif7494@gmail.com">mohammadasif7494@gmail.com</a>
+        📧 Email: <a href="mailto:mohammadasif7494@gmail.com">mohammadasif7494@gmail.com</a><br>
         🌐 <a href="https://www.linkedin.com/in/mohammad-asif-khan-a3089a24a">LinkedIn</a>
     </p>
 </body>
